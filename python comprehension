@@ -1,0 +1,6 @@
+Without comprehension:
+	 for i in range ( x + 1 ) : for j in range( y + 1): if i+j != n: ar.append([]) ar[p] = [ i , j ] p+=1 print ar 
+With comprehension:
+	print [ [ i, j] for i in range( x + 1) for j in range( y + 1) if ( ( i + j ) != n )]
+
+

@@ -1,0 +1,3 @@
+Python notes
+* end = for printing in same line in python
+* {0} for printing the input received without storing in a variable
